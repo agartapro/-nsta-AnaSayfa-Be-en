@@ -1,0 +1,7 @@
+1) klasördeki dosyalarý sitenizde bir klasör oluþturup içine atýnýz.
+örnek:  http://sentechag.com/anasayfabegen/
+2) index dosyasýný açýp ordaki dizini deðiþtirip, kullanýcý adý ve þifrenizi yazýp kaydediniz.
+3) her o adrese girdiðinizde, anasayfadaki tüm paylaþýmlarý beðenecektir
+
+* Bilgisayar baþýnda olmadan da anasayfayý beðenmek isterseniz cron-job.org sitesine girip o linke cronjob oluþturunuz.
+Örneðin her yarým saatte bir otomatik girer beðenmiþ olacaktýr.
